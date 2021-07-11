@@ -4,5 +4,5 @@ Originally, they wrote [camouflage paper](https://besjournals.onlinelibrary.wile
 
 We now have `camoGAN.ipynb` written in pytorch.
 
-A pretrained model for 300 epochs has been provided [here](https://drive.google.com/file/d/1kWLym52VTGsuiIvavmkJJkDN0MtEu_eK/view?usp=sharing) 
+A pretrained model (device must be cuda for this model) for 300 epochs has been provided [here](https://drive.google.com/file/d/1kWLym52VTGsuiIvavmkJJkDN0MtEu_eK/view?usp=sharing) 
 
